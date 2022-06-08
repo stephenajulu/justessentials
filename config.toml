@@ -1,6 +1,6 @@
 baseURL = "http://justessentials.netlify.app"
 languageCode = "en-US"
-title = "Just Essentials Shop"
+title = "Just Essentials Marketplace"
 disableKinds = ["section"]
 pygmentsCodeFences = false
 pygmentsUseClasses = false
